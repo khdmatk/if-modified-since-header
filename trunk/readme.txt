@@ -8,11 +8,11 @@ Author URI: https://www.isaumya.com
 Author: Saumya Majumder (isaumya)
 Requires at least: 2.0
 Tested up to: 4.1
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A simple plugin to sent `304 If Modified Since HTTP Header` to the web crawlers, so that they only fetch your site when something has been updated.
+A simple plugin to sent "304 If Modified Since HTTP Header" to the web crawlers, so that they only fetch your site when something has been updated.
 
 == Description ==
 
@@ -81,8 +81,11 @@ Yes, it works fine with WordPress Multisite Networks. In fact I will suggest you
 
 == Changelog ==
 
-= 1.0 =
-* Initial Release.
+= 1.2 =
+* Minor Bug Fix.
 
 = 1.1 =
 * Plugin compatibility updated with older WordPress versions.
+
+= 1.0 =
+* Initial Release.
