@@ -5,7 +5,7 @@
  * Description: This is a simple plugin to sent 304 If Modified Since to the HTTP header. So that the search engines can understand whether your contents has been recently updated and to crawl it again.
  * Author: Saumya Majumder
  * Author URI: https://www.isaumya.com
- * Version: 1.2.2
+ * Version: 1.2.3
  * License: GPL2+
  * Text Domain: if-modified-header
  */

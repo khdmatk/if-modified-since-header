@@ -8,7 +8,7 @@ Author URI: https://www.isaumya.com
 Author: Saumya Majumder (isaumya)
 Requires at least: 2.0
 Tested up to: 4.1
-Stable tag: 1.2.2
+Stable tag: 1.2.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -81,6 +81,9 @@ Yes, it works fine with WordPress Multisite Networks. In fact I will suggest you
 2. Screenshot of HTTP Header Values.
 
 == Changelog ==
+
+= 1.2.2 =
+* Major bug fix.
 
 = 1.2.2 =
 * Minor fix.
