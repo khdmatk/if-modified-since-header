@@ -12,7 +12,7 @@ Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A simple plugin to sent "304 If Modified Since HTTP Header" to the web crawlers, so that they only fetch your site when something has been updated.
+A simple plugin to sent "304 If Modified Since HTTP Header" to the web crawlers, so that they only fetch your site when something updated.
 
 == Description ==
 
@@ -24,33 +24,34 @@ install this simple plugin to tell the web crawlers if anything new has been upd
 without draining your bandwidwidth and server resource. Also not only Google, every web crawlers starting with Bing, Yahoo and others use this `304 If Modified Since HTTP Header` to
 identify if there is something new has been updated on the site. You can know more about it [here](http://www.feedthebot.com/ifmodified.html).
 
-**Why do you need it**
+**Why do you need it?**
 
 This helps the search engines crawlers to understand whether they need to recrawl your page. If your page or post 
 has been updated after the search engines has crawled it, then your page will sent a `304 Modified Header` and invite 
 all the search engines to recrawl your page.
 
-**What if you don't have it**
+**What if you don't have it?**
 
 Every webmaster out there tries their best to climb the SEO ladder as much as possible to rank well in Search Engines. 
 This small plugin will help you a lot to make sure search engines loves you.
 
-**How to use it**
+**How to use it?**
 
 Well, this plugin is one of the most simple and easiest plug you have ever used (I Think). What you have to do is just 
 download, install and activate the plugin, rest will be handled by the plugin itself. So, you don't have to worry about it.
 
-**Check if it is working**
+**Check if it is working?**
 
 You can easily check whether your site is sending `304 If Modified Since HTTP Header` or not. 
 Just visit [FeedtheBot Testing Tool](http://www.feedthebot.com/tools/if-modified/) and put your website URL to test.
 You will see the result by yourself. A big green YES! :)
 
-**Need Support**
+**Need Support?**
 
 Use the Plugin Support Forum on WordPress.
 
-**Like the Plugin**
+**Like the Plugin?**
+
 I'm really glad that you liked the plugin. Please help me to keep it updated by [__Donating Here__](http://donate.isaumya.com).
 
 
