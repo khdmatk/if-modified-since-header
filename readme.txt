@@ -83,3 +83,6 @@ Yes, it works fine with WordPress Multisite Networks. In fact I will suggest you
 
 = 1.0 =
 * Initial Release.
+
+= 1.1 =
+* Plugin compatibility updated with older WordPress versions.
