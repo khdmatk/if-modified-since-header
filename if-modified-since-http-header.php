@@ -5,7 +5,7 @@
  * Description: This is a simple plugin to sent 304 If Modified Since to the HTTP header. So that the search engines can understand whether your contents has been recently updated and to crawl it again.
  * Author: Saumya Majumder
  * Author URI: https://www.isaumya.com
- * Version: 1.2.1
+ * Version: 1.2.2
  * License: GPL2+
  * Text Domain: if-modified-header
  */
@@ -27,8 +27,9 @@
 */
 
 /* Do Not Change Anything here */
-add_action('template_redirect', 'cyb_add_last_modified_header');
-function cyb_add_last_modified_header($headers) {
+add_action('template_redirect', 'ism_add_last_modified_header');
+
+function ism_add_last_modified_header($headers) {
 
     //Check if we are in a single post of any type (archive pages has not modified date)
     if( is_singular() ) {
