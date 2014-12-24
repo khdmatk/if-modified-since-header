@@ -6,7 +6,7 @@ Donate link: http://donate.isaumya.com/
 Tags: http, header, if-modified, seo, google
 Author URI: https://www.isaumya.com
 Author: Saumya Majumder (isaumya)
-Requires at least: 3.8
+Requires at least: 2.0
 Tested up to: 4.1
 Stable tag: 1.0
 License: GPLv2 or later
